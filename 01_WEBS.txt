@@ -1,0 +1,10 @@
+home_urls = ['https://www.businesswritingservices.org/buy-business-research-proposal', 'https://www.businesswritingservices.org/buy-business-thesis', 'https://www.businesswritingservices.org/buy-business-dissertation-paper', 'https://www.businesswritingservices.org/buy-business-thesis-proposal', 'https://www.businesswritingservices.org/buy-business-coursework']
+titles = ['Buy Business Research Proposal', 'Buy Business Thesis', 'Buy Business Dissertion Paper', 'Write My Business Research Summary', 'Buy Business Coursework']
+descriptions = [
+    'We will deliver a business research proposal by best writers when you seek our service. Our writers use persuasive language and present facts to support your reasons for choosing your project.',
+    'Our service is comprehensive to help students through all aspects of writing a thesis. We help with choosing an appropriate topic, researching from different sources, and writing the paper according to guidelines by your institution.',
+    'Businesswritingservices.org has become the top writer in writing a dissertation as we specialize in writing business assignments. It is only certified writers who work on buying a dissertation online orders.',
+    'The experience by BusinessWritingServices.org is enough reason to buy a business thesis proposal online. We have for more than five years been writing theses and their proposals getting a complete understanding of research areas as well as gaps in business.',
+    'Our choice to write business coursework is to provide the best writing service to our clients. We will assign you a seasoned writer with a complete understanding of this crucial assignment when we receive your request you buy business coursework online.'
+    ]
+meta_keywords = ['Buy Business Research Proposal', 'Writing Business Thesis', 'Writing a Dissertion Paper', 'Business Thesis Proposal', 'Write Business Coursework']
